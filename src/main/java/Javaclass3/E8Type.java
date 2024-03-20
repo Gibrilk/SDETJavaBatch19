@@ -1,0 +1,9 @@
+package Javaclass3;
+
+public class E8Type {
+    public static void main(String[] args) {
+        double num=10.5;
+        int number=(int)num;
+        System.out.println(number);
+    }
+}
